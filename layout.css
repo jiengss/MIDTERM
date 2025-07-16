@@ -1,0 +1,116 @@
+.body{font-family: "Montserrat";
+    
+   
+    
+}
+.container{
+    background-color: #F9C265;
+    width: 1600px;
+    height: 117px;
+    left: 100px;
+
+}
+.home{
+    position: relative;
+    display: inline-block;
+    left:50px;
+    bottom: 40px;
+    
+}
+.Blog{
+    display: inline-block;
+    position: relative;
+    left:150px;
+    bottom: 40px;
+  
+}
+.Course{
+    display: inline-block;
+    position: relative;
+    left: 250px;
+    bottom: 40px;
+
+}
+
+.Log{
+    display: inline-block;
+    position: relative;
+ left: 900px;
+ bottom: 40px;
+ color: black;
+}
+.button{
+    display: inline-block;
+    position: relative;
+    color: white;
+    font-family: "Montserrat";
+    left: 920px;  
+    bottom: 40px;
+    padding:5px ;
+    border-radius: 30px;
+    font-size: 15px;
+    background-color: black;
+}
+.img {
+    position: relative;
+    left: 500px;
+    top: 2px;
+}
+
+.container2{
+    background-color: #F9C265;
+    width: 1600px;
+    height: 865px;
+position: absolute;
+
+}
+.container2 >h1:nth-child(1){
+    position:relative;
+    font-family: "Montserrat";
+    left: 90px;
+    font-size:100px;
+    bottom: 30px;
+
+}
+.container2 >h1:nth-child(2){
+    color: #F9C265;
+    
+    position: relative;
+   font-family: "Pattaya";
+   font-style: italic;
+   border-radius:150px;
+   width: 250px;
+   bottom: 80px;
+   left: 100px;
+   background-color: black;
+   font-size: 100px;
+   
+
+
+}
+.container2 >h1:nth-child(3){
+ position: relative;
+ font-size: 100px;
+ left: 384px;
+ bottom: 270px;
+ font-style:  bold;
+
+
+}
+.image2{
+    position: relative;
+    left:49px;
+    bottom: 615px;
+}
+.para{
+    position: relative;
+    width: 1512px;
+    height: 865px;
+    bottom: 560px;
+    left: 900px;
+    font-size: 21px;
+    font-weight: 500px;
+    line-height: 150px;
+}
+
+
