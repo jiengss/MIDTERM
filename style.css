@@ -1,0 +1,1035 @@
+body{
+    background: #F9C265;
+}
+
+.nav-bar{
+   display: block;
+   align-items: center;
+   position: relative;
+   right: 37rem;
+   top: 3rem;
+}
+.nav-bar .home{
+    text-align: center;
+    position: relative;
+    word-spacing: 20px;
+    bottom: 2rem;
+    right: 4rem;
+    font-size: 20px;
+    font-family: 'montserrat';
+    font-weight: 700;
+}
+.nav-bar .Blog{
+ text-align: center;
+    position: relative;
+    bottom: 6.5rem;
+    left: 5rem;
+    word-spacing: 20px;
+    font-size: 20px;
+    font-family: 'montserrat';
+    font-weight: 700;
+}
+.nav-bar .course{
+ text-align: center;
+    position: relative;
+    left: 15rem;
+    bottom: 11rem;
+    word-spacing: 20px;
+    font-size: 20px;
+    font-family: 'montserrat';
+    font-weight: 700;
+}
+.monac{
+    position: relative;
+    left: 85rem;
+    bottom: 23rem;
+}
+.nav-bar .one{
+    position: relative;
+    left: 42.5rem;
+    bottom: 20.5rem;
+}
+.nav-bar .login{
+    position: relative;
+    font-family: 'montserrat';
+    left: 118rem;
+    font-size: 20px;
+    font-weight: 900;
+    bottom: 14rem;
+}
+.nav-bar .SignUp{
+     position: relative;
+    background: black;
+    color: white;
+     font-family: 'montserrat';
+    border-radius: 20px;
+    text-align: center;
+    width: 101px;
+    height: 39px;
+    font-weight: 400;
+    font-size: 20px;
+    bottom: 13.5em;
+    left:  123rem;
+    line-height: 2rem;
+   
+}
+.nav-bar .arrow{
+    position: relative;
+    left: 109.5rem;
+    bottom: 98rem;
+}
+.nav-bar .Enroll{
+    background: #F9C265;
+    color: black;
+    bottom: 93rem;
+    font-family: 'montserrat';
+    border: 1px solid black;
+    border-radius: 50px;
+    text-align: center;
+    width: 200px;
+    height: 65px;
+    line-height: 57px;
+    font-size: 21px;
+    position: relative;
+    left: 100rem;
+    color: black;
+   
+}
+.nav-bar .paragraph{
+    position: relative;
+    bottom: 146rem;
+    line-height: 35px;
+    font-size: 25px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    left: 64em;
+    max-width: 474px;
+}
+
+.nav-bar .Improve{
+    font-size: 81px;
+    font-weight: 800;
+    position: relative;
+    font-family: 'Montserrat';
+    left: 9em;
+    bottom: 115rem;
+    
+}
+.nav-bar .skills{
+    background: #1E1C1D;
+    color: #F9C265;
+    width: 279px;
+    height: 116px;
+    font-size: 81px;
+    text-align: center;
+    border-radius: 90px;
+    position: relative;
+    left: 43rem;
+    bottom: 119rem;
+    font-family: 'pattaya';
+    font-weight: 400;
+}
+.nav-bar .Faster{
+    position: relative;
+    font-family: 'montserrat';
+    font-size: 81px;
+    bottom: 130rem;
+    left: 61rem;
+}
+
+.nav-bar .image{
+    position: relative;
+    bottom: 21.5rem;
+    left: 56rem;
+    width: 1px;
+    height: 616px;
+}
+.nav-bar .dod{
+    position: relative;
+    bottom: 50rem;
+    left: 50em;
+}
+.numbers .dod2{
+    position: relative;
+   bottom: 37.9rem;
+    left: 97em;
+}
+
+
+.nav-bar .yellow{
+    position: relative;
+    left: 135rem;
+    width: 106px;
+    height: 198px;
+}
+.nav-bar .yellow-2{
+    position: relative;
+    top: 20rem;
+    left: 36rem;
+    width: 247px;
+    height: 356px;
+}
+
+.numbers{
+    background: white;
+    position: relative;
+    bottom: 70rem;
+    display: block;
+    width: 108rem;
+    right: 2rem;
+    height: 20rem;
+    font-family: 'montserrat';
+}
+.h3{
+    font-size: 63px;
+    position: relative;
+    top: 8rem;
+    left: 270px;
+}
+.h3-2{
+    font-size: 63px;
+    position: relative;
+    bottom: .5rem;
+    left: 600px;
+}
+.h3-3{
+    font-size: 63px;
+    position: relative;
+    bottom: 9rem;
+    left: 950px;
+}
+.h3-4{
+    font-size: 63px;
+    width: 5px;
+    position: relative;
+    bottom: 17.4rem;
+    left: 1300px;
+}
+
+.hr1{
+    height: 52px;
+    width: 3px;
+    position: relative;
+    bottom: 40rem;
+    right: 23rem;
+    background-color: #F9C265;
+    border-radius: 5px;
+}
+.hr2{
+    height: 52px;
+    width: 3px;
+    position: relative;
+    bottom: 43.9rem;
+    right: 2rem;
+    background-color: #F9C265;
+    border-radius: 5px;
+}
+.hr3{
+    height: 52px;
+    width: 3px;
+    position: relative;
+    bottom: 47.5rem;
+    left: 20rem;
+    background-color: #F9C265;
+    border-radius: 5px;
+}
+.Reviews{
+    position: relative;
+    bottom: 28rem;
+    font-size: 16px;
+    left: 16.5rem;
+    font-family: 'montserrat';
+}
+.Enrollment{
+    position: relative;
+    bottom: 30rem;
+    font-size: 16px;
+    left: 39rem;
+    font-family: 'montserrat';
+}
+.Learners{
+    position: relative;
+    bottom: 32rem;
+    font-size: 16px;
+    left: 61rem;
+    font-family: 'montserrat';
+}
+.Popular{
+    position: relative;
+    bottom: 34rem;
+    font-size: 16px;
+    left: 81rem;
+    font-family: 'montserrat';
+}
+
+.sec{
+    background-color: #FDF6E4;
+    height: 680px;
+    width: 1710px;
+    position: relative;
+    right: 1rem;
+    bottom: 70rem;
+}
+.comp{
+    width: 771px;
+    height: 520px;
+    position: relative;
+    left: 5rem;
+    top: 3rem;
+}
+p{
+    width: 467px;
+    text-align: justify;
+    font-size: 25px;
+    position: relative;
+     font-family: 'Montserrat';
+    left: 63rem;
+    bottom: 10rem;
+    letter-spacing: 3%;
+}
+.we{
+    position: relative;
+    bottom: 40rem;
+    left: 62rem;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 65px;
+}
+.smart{
+    background:  #F9C265;
+    color: black;
+    border: 2px solid black;
+    width: 203px;
+    text-align: center;
+    height: 75px;
+    font-size: 60px;
+    border-radius: 90px;
+    position: relative;
+    left: 16em;
+    bottom: 43rem;
+    font-family: 'pattaya';
+    font-weight: 400;
+}
+.Online{
+    position: relative;
+    bottom: 52rem;
+    left: 75rem;
+    font-size: 65px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+}
+.education{
+    position: relative;
+    bottom: 55rem;
+    left: 63rem;
+    font-size: 65px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+}
+.third{
+    background: radial-gradient(circle, #F6DFBF 0%, #F7F7F7 90%);
+
+    width: 1710px;
+    height: 1095px;
+    bottom: 73rem;
+    right: 1rem;
+    position: relative;
+}
+.our{
+    position: relative;
+    top: 8rem;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 50px;
+    left: 10rem;
+    width: 806px;
+    height: 303px;
+    background: rgb(29, 29, 29);
+    color: white;
+    padding-left: 5rem;
+    padding-top: 2.5rem;
+}
+.features{
+    color: #F9C265;
+    width: 279px;
+    height: 116px;
+    position: relative;
+    bottom: 14rem;
+    font-size: 50px;
+    left: 7em;
+    font-family: pattaya;
+    font-weight: 400;
+}
+.Special{
+    position: relative;
+    bottom: 19rem;
+    color: white;
+    left: 15rem;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 50px;
+    width: 806px;
+    height: 303px;
+}
+.dahon{
+    position: relative;
+    bottom: 55rem;
+    color: white;
+    left: 12rem;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 50px;
+    width: 806px;
+    height: 303px;
+}
+.see{
+    background: #F9C265;
+    border: 1px solid black;
+    font-family: 'Montserrat';
+    width: 270px;
+    height: 75px;
+    font-size: 20px;
+    position: relative;
+    text-align: center;
+    line-height: 4.7rem;
+    border-radius: 50px;
+    left: 15rem;
+    bottom: 34rem;
+}
+.box{
+    background: white;
+    position: relative;
+    bottom: 78rem;
+    left: 70rem;
+    width: 378px;
+    height: 370px;
+}
+.box .Certificate{
+    font-weight: 600;
+    font-size: 28px;
+    font-family: 'Inter';
+    position: relative;
+    left: 3rem;
+    top: 10rem;
+
+}
+.box .com{
+    position: relative;
+    left: 3rem;
+    bottom: 9rem;
+}
+.add{
+    position: relative;
+    top: 10rem;
+    left: 2.5rem;
+    font-size: 20px;
+    width: 306px;
+}
+
+.arr{
+    position: relative;
+    bottom: 38.6rem;
+    left: 28rem;
+}
+.box1{
+    background: white;
+    position: relative;
+    bottom: 76rem;
+    left: 10rem;
+    width: 378px;
+    height: 380px;
+}
+.box1 .amazing{
+    position: relative;
+    top: 10rem;
+    left: 2rem;
+    font-size: 28px;
+    font-family: 'inter';
+
+}
+.box1 .knowledge{
+    width: 306px;
+    height: 102px;
+    position: relative;
+    font-size: 20px;
+    left: 2rem;
+    top: 9rem;
+}
+.box1 .teach{
+    position: relative;
+    left: 2rem;
+    bottom: 11rem;
+}
+.box2{
+    background: white;
+    position: relative;
+    bottom: 101.5rem;
+    left: 40rem;
+    width: 378px;
+    height: 380px;
+}
+
+.box2 .Lifetime{
+    position: relative;
+    font-family: 'inter';
+    font-size: 28px;
+    font-weight: 600;
+    top: 10rem;
+    left: 2rem;
+}
+.box2 .you{
+    position: relative;
+    font-family: 'inter';
+    font-size: 21px;
+    width: 306px;
+    top: 10rem;
+    left: 2rem;
+}
+.box2 .tawag{
+    position: relative;
+    bottom: 9.2rem;
+    left: 1.5rem;
+}
+
+.box3{
+    background: white;
+    position: relative;
+    bottom: 127rem;
+    left: 70rem;
+    width: 378px;
+    height: 380px;
+}
+.box3 .video{
+    font-family: 'inter';
+    font-size: 28px;
+    font-weight: 600;
+    top: 10rem;
+    position: relative;
+    left: 2rem;
+}
+.box3 .recorded{
+    position: relative;
+    font-family: 'inter';
+    font-size: 21px;
+    width: 306px;
+    top: 10rem;
+    left: 2rem;
+}
+.box3 .vid{
+    position: relative;
+    bottom: 8rem;
+    left: 2rem;
+}
+.fourth{
+    background: #1D1D1D;
+    width: 1727.5px;
+    height: 1070px;
+    position: relative;
+    bottom: 76rem;
+    right: 2rem;
+}
+.popular{
+    position: relative;
+    top: 8rem;
+    left: 42rem;
+    font-size: 50px;
+    color: white;
+}
+.cor{
+    background:  #1D1D1D;
+    color: #F9C265;
+    border: 1px solid #F9C265;
+    width: 203px;
+    font-size: 50px;
+    font-family: 'pattaya';
+    font-weight: 600;
+    border-radius: 50px;
+    text-align: center;
+    position: relative;
+    top: 1.9rem;
+    left: 55rem;
+}
+.view{
+    background: white;
+    width: 380px;
+    height: 478px;
+    border-radius: 10px;
+    position: relative;
+    left: 10rem;
+    top: 3rem;
+}
+.view img{
+    position: relative;
+    left: 4rem;
+    top: 2rem;
+
+}
+.view .bituon{
+    position: relative;
+    top: 2rem;
+    right: 2rem;
+}
+.view .orasan{
+    position: relative;
+    top: 0.4rem;
+    left: 10rem;
+}
+.view .reviews{
+    color: gray;
+    position: relative;
+    left: 4rem;
+    bottom: 0.1rem;
+    font-size: 15px;
+}
+.view .English{
+    position: relative;
+    left: 2rem;
+    width: 250px;
+    font-family: 'montserrat';
+    font-size: 17px;
+    letter-spacing: 3%;
+    line-height: 150%;
+}
+.view .time{
+    color: gray;
+    left: 16rem;
+    font-size: 17px;
+      bottom: 6.5rem;
+    font-family: 'montserrat';
+}
+.view .btn{
+    background: white;
+    color: black;
+    border: 1px solid black;
+    width: 190px;
+    height: 55px;
+    position: relative;
+    left: 2rem;
+    bottom: 2rem;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 3rem;
+    font-size: 17px;
+     font-family: 'montserrat';
+     font-weight: 700;
+
+}
+.view2{
+    background: white;
+    width: 380px;
+    height: 478px;
+    border-radius: 10px;
+    position: relative;
+    left: 42rem;
+    bottom: 27rem;
+}
+.view2 img{
+    position: relative;
+    left: 4rem;
+    top: 2rem;
+}
+.view2 .bituon{
+    position: relative;
+    top: 2rem;
+    right: 2rem;
+}
+
+.view2 .orasan{
+    position: relative;
+    top: 0.4rem;
+    left: 10rem;
+}
+.view2 .reviews{
+    color: gray;
+    position: relative;
+    left: 4rem;
+    bottom: 0.1rem;
+    font-size: 15px;
+}
+.view2 .English{
+    position: relative;
+    left: 2rem;
+    width: 250px;
+    font-family: 'montserrat';
+    font-size: 17px;
+    letter-spacing: 3%;
+    line-height: 150%;
+}
+.view2 .time{
+    color: gray;
+    left: 16rem;
+    font-size: 17px;
+      bottom: 6.5rem;
+    font-family: 'montserrat';
+}
+.view2 .btn{
+    background: #F9C265;
+    color: black;
+    border: 1px solid black;
+    width: 190px;
+    height: 55px;
+    position: relative;
+    left: 2rem;
+    bottom: 2rem;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 3rem;
+    font-size: 17px;
+     font-family: 'montserrat';
+     font-weight: 700;
+
+}
+.view3{
+    background: white;
+    width: 380px;
+    height: 478px;
+    border-radius: 10px;
+    position: relative;
+    left: 74rem;
+    bottom: 57rem;
+}
+.view3 img{
+    position: relative;
+    left: 4rem;
+    top: 2rem;
+}
+.view3 .bituon{
+    position: relative;
+    top: 2rem;
+    right: 2rem;
+}
+.view3 .orasan{
+    position: relative;
+    top: 0.4rem;
+    left: 10rem;
+}
+.view3  .reviews{
+    color: gray;
+    position: relative;
+    left: 4rem;
+    bottom: 0.1rem;
+    font-size: 15px;
+}
+.view3 .English{
+    position: relative;
+    left: 2rem;
+    width: 250px;
+    font-family: 'montserrat';
+    font-size: 17px;
+    letter-spacing: 3%;
+    line-height: 150%;
+}
+.view3 .time{
+    color: gray;
+    left: 16rem;
+    font-size: 17px;
+      bottom: 6.5rem;
+    font-family: 'montserrat';
+}
+.view3 .btn{
+    background: white;
+    color: black;
+    border: 1px solid black;
+    width: 190px;
+    height: 55px;
+    position: relative;
+    left: 2rem;
+    bottom: 2rem;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 3rem;
+    font-size: 17px;
+     font-family: 'montserrat';
+     font-weight: 700;
+}
+
+.fifth{
+    width: 1727px;
+    height: 959px;
+    position: relative;
+    right: 74rem;
+    top: 18rem;
+    background-color: #FDF6E4;
+
+}
+.RECTANGLE .rec{
+   width: 1304px;
+   height: 373px;
+   background: #F9C265;
+   position: relative;
+   bottom: 15rem;
+   border-radius: 40px;
+   border: 1px solid #F9C265;
+}
+.RECTANGLE .get{
+    position: relative;
+    bottom: 35rem;
+    left: 48rem;
+    font-size: 48px;
+}
+.RECTANGLE .ready{
+    font-family: 'pattaya';
+    position: relative;
+    font-weight: 400;
+    bottom: 42rem;
+    left: 55rem;
+    font-size: 48px;
+}
+.RECTANGLE .Start{
+    position: relative;
+    font-weight: 600;
+    bottom: 49rem;
+    left: 65rem;
+    font-size: 48px;
+}
+.RECTANGLE .after{
+    position: relative;
+    bottom: 51rem;
+    width: 400px;
+    font-size: 21px;
+    font-weight: 500;
+    left: 48rem;
+}
+.RECTANGLE .view-btn{
+    background: black;
+    color: #ffb22c;
+    border: 1px solid black;
+    width: 190px;
+    height: 55px;
+    position: relative;
+    left: 48rem;
+    bottom: 51rem;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 3rem;
+    font-size: 17px;
+     font-family: 'montserrat';
+     font-weight: 700;
+}
+.RECTANGLE .pointing{
+    position: relative;
+    bottom: 69rem;
+    left: 13rem;
+}
+.RECTANGLE .doodle2{
+    position: relative;
+    bottom: 76rem;
+    left: 7.4rem;
+}
+.RECTANGLE .leafright{
+    position: relative;
+    bottom: 100rem;
+    left: 88rem;
+}
+.last{
+    position: relative;
+    bottom: 37rem;
+    right: 2rem;
+}
+.last .try{
+    font-family: 'montserrat';
+    font-size: 51px;
+    font-weight: bold;
+    position: relative;
+    bottom: 74rem;
+    left: 40rem;
+}
+.last .on{
+    font-family: 'montserrat';
+    font-size: 51px;
+    font-weight: bold;
+    position: relative;
+    bottom: 77rem;
+    left: 47rem;
+}
+.last .mobile{
+    background: #F9C265;
+    color: black;
+    border: 2px solid black;
+    border-radius: 80px;
+    font-family: 'pattaya';
+    font-size: 51px;
+    font-weight: 500;
+    position: relative;
+    bottom: 84rem;
+    left: 52rem;
+}
+.RECTANGLE .appstore{
+    position: relative;
+    bottom: 64rem;
+    left: 40rem;
+}
+.RECTANGLE .kamunggay{ 
+    position: relative;
+    bottom: 70rem;
+    right: 3rem;
+}
+.RECTANGLE .kamunggay2{
+    position: relative;
+    bottom: 92rem;
+    left: 94rem;
+}
+.Acquisition{
+    position: relative;
+    bottom: 105rem;
+    left: 15.5rem;
+    width: 1230px;
+    height: 353px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    background: #1D1D1D;
+}
+.Acquisition .speed{
+    position: relative;
+    color: lightgray;
+    top: 10rem;
+    left: 3rem;
+    font-size: 21px;
+    font-family: 'montserrat';
+}
+.Acquisition .rights{
+    position: relative;
+    color: lightgray;
+    top: 12rem;
+    left: 3rem;
+    font-size: 21px;
+    font-family: 'montserrat';
+}
+.COMP{
+    position: relative;
+    bottom: 19rem;
+    left: 32rem;
+}
+.COMP .company{
+    position: relative;
+    color: white;
+    width: 10px;
+    top: 12rem;
+    left: 3rem;
+    font-size: 21px;
+    font-family: 'montserrat';
+}
+.Acquisition .About{
+    position: relative;
+    color: lightgray;
+    top: 12rem;
+    left: 3rem;
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'montserrat';
+}
+.Acquisition .Careers{
+    position: relative;
+    color: lightgray;
+    top: 12rem;
+    left: 3rem;
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'montserrat';
+}
+.Acquisition .Press{
+    position: relative;
+    color: lightgray;
+    top: 12rem;
+    left: 3rem;
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'montserrat';
+}
+.res .Resources{
+    position: relative;
+    color: white;
+    top: 12rem;
+    left: 7rem;
+    font-size: 21px;
+    font-weight:bold;
+    font-family: 'montserrat';
+}
+.res .blog{
+    position: relative;
+    color: lightgray;
+    top: 12rem;
+    left: 7rem;
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'montserrat';
+}
+.res .help{
+    position: relative;
+    color: lightgray;
+    top: 12rem;
+    left: 7rem;
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'montserrat';
+}
+.res .UX{
+    position: relative;
+    color: lightgray;
+    top: 12rem;
+    left: 7rem;
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'montserrat';
+}
+.res{
+    position: relative;
+    bottom: 34rem;
+    left: 40rem;
+}
+.prod .product{
+    position: relative;
+    color: white;
+    top: 12rem;
+    left: 7rem;
+    font-size: 21px;
+    font-weight: bold;
+    font-family: 'montserrat';
+}
+.prod .bout{
+    position: relative;
+    color: lightgray;
+    top: 12rem;
+    left: 7rem;
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'montserrat';
+}
+.prod .car{
+    position: relative;
+    color: lightgray;
+    top: 12rem;
+    left: 7rem;
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'montserrat';
+}
+.prod .Kit{
+    position: relative;
+    color: lightgray;
+    top: 12rem;
+    left: 7rem;
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'montserrat';
+}
+.prod{
+    position: relative;
+    bottom: 49rem;
+    left: 55rem;
+}
+.Terms{
+    position: relative;
+    color: lightgray;
+    bottom: 43.5rem;
+    left: 51.5rem;
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'montserrat';
+
+}
+.bottom{
+    position: relative;
+    bottom: 55rem;
+}
+ 
